@@ -2,7 +2,7 @@
 A simple python script to check if a light turns on in a virtual environment and make a physical set of light pannels turn on accordingly.
 
 ### Download python
-https://www.python.org/downloads/windows/
+https://www.python.org/downloads/release/python-3810/
 
 ### Install pip
 pip install pip
